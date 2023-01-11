@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo Python e MySQL
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fato engraçado **C.E.S 😜**
 <!--
 - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
 
