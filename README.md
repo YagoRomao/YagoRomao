@@ -27,14 +27,14 @@
   <img align="center" alt="Yago-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Yago-Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   
-<br></br> 
+<!-- <br></br> 
 
 ## ⚙️ &nbsp;Análise GitHub
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoRomao&show_icons=true&count_private=true&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoRomao&layout=compact&theme=algolia" alt="Yago Romão's most languages"/>
-</p>
+</p> -->
 
 <br></br>
 
