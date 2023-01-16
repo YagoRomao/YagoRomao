@@ -21,7 +21,7 @@
 
 - Foi junto ao Método Voyager que iniciei um projeto de reestruturação dos dados na ONG onde eu trabalhava. Lá pude reestruturar as informações que tinhamos em um único lugar, pois antes eram formatados de várias maneira (ppt, txt, pdf, etc), desta forma melhoramos o processo de seleção para os cursos gratuitos, a divulgação fazendo com que alcançassem 150% a mais de inscrições e diminuindo o tempo gasto em processos administrativos.
 
-- Como a maior parte dos meus projetos foram feitos offline e descobri esta ferramenta a poucos meses, pretendo incluir todos os meus projetos até o final de Janeiro deste ano.
+- Como a maior parte dos meus projetos foram feitos offline, pretendo inclui-los aqui até o final de Janeiro deste ano.
 
 <br></br>
 
